@@ -6,7 +6,7 @@
 
 A digital sage - 🌱 Bio hacker & 🚀 Ux Engineer
 
-Portfolio 👉🏽 suthashan-001.github.io/music-player/
+Portfolio 👉🏽 https://suthashan-001.github.io/music-player/
 
 Instagram: @suthashan_ 
 
