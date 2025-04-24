@@ -17,7 +17,7 @@
 I'm a third-year computer science student, passionate about creating innovative, user-centered digital experiences and enhancing well-being through biohacking. My journey bridges technology, healthcare, and lifestyle optimization, with a vision to make impactful strides in healthcare UX.
 
 - **Mission:** Crafting seamless, intuitive digital solutions that make life healthier and simpler.
-- **Specialties:** UX design for healthcare, biohacking, and human-centered AI.
+- **Specialties:** UX design for healthcare, biohacking, and human-centered AI/ Ai automations.
 - **Vision:** To shape a future where tech meets well-being, creating tools that empower individuals and healthcare professionals alike.
 
 ### Featured Project
